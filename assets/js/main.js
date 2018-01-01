@@ -25,5 +25,5 @@ $(document).ready(function() {
 
 // FitVids options
 $(function() {
-	$("content").fitVids();
+	$(".content").fitVids();
 });
