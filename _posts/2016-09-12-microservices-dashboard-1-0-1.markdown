@@ -1,6 +1,6 @@
 ---
 layout: post
-title: External post
+title: Microservices Dashboard
 date: 2017-01-01 13:32:20 +0300
 description: Microservices Dashboard is a simple application to visualize links between microservices and the encompassing ecosystem.
 img: ms-dashboard.jpg
