@@ -1,7 +1,7 @@
 ---
 layout: post
 title: External post
-date: 2017-01-01 13:32:20 +0300
+date: 2016-05-01 13:32:20 +0300
 description: At one of our clients, we have been using Json Web Tokens quite extensively. We even use it to persist state on the client.
 img: jwt-tokens.jpg
 tags: [Blog, JWT, State, Cache]
