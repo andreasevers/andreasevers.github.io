@@ -1,6 +1,6 @@
 ---
 layout: post
-title: External post
+title: Using JWT Tokens for State Transfer
 date: 2016-05-01 13:32:20 +0300
 description: At one of our clients, we have been using Json Web Tokens quite extensively. We even use it to persist state on the client.
 img: jwt-tokens.jpg
