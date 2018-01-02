@@ -8,7 +8,7 @@ layout: home-page
     <div class="post-card">
       <a href="{{post.external_url}}" target="_blank" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
       </a>
-      <img src="url( {{ "/assets/img/external.png" | prepend: site.baseurl}} )" class="external-url"/>
+      <img src="{{ "/assets/img/external.png" | prepend: site.baseurl}}" class="external-url"/>
     {% else %}
     <div class="post-card">
       <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
