@@ -26,7 +26,7 @@ speakerdeck: andreasevers
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: andreasevers
+discus_identifier: andreasevers-github-io
 
 # Tracker
 analytics: # Google Analytics
