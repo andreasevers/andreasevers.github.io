@@ -11,24 +11,22 @@ url: "https://andreasevers.github.io" # the base hostname & protocol for your si
 # Author settings
 author: Andreas Evers
 author-pic: andreas-face.jpg
-about-author: My name is Andreas Evers. Principal Java consultant @Ordina. Passionate about the Spring ecosystem, microservices, REST, clean code, ... Avid open source enthusiast & Spring contributor.
+about-author: My name is Andreas Evers. I'm a principal Java consultant @Ordina. Passionate about the Spring ecosystem, microservices, REST, clean code, ... Avid open source enthusiast & Spring contributor.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: andreasevers # Add your Github handle
-twitter: '@andreasevers' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+email: krosan@gmail.com
+phone: +32476363308
+website: andreasevers.github.io
+linkedin: eversandreas
+github: andreasevers
+twitter: '@andreasevers'
+speakerdeck: andreasevers
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: andreasevers
 
 # Tracker
 analytics: # Google Analytics
