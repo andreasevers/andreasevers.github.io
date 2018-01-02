@@ -6,7 +6,7 @@ layout: home-page
   <li>
     {% if post.external_url %}
     <div class="post-card external-url">
-      <a href="{{post.external_url}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
+      <a href="{{post.external_url}}" target="_blank" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
       </a>
     {% else %}
     <div class="post-card">
