@@ -125,7 +125,6 @@ pre {
 /* = = = = = = = = = = Pagination Styles = = = = = = = = = = */
 @import "parts/pagination";
 
-
 /* = = = = = = = = = = Footer Styles = = = = = = = = = = */
 @import "parts/footer";
 
@@ -137,6 +136,9 @@ pre {
 
 /* = = = = = = = = = = About Page Styles = = = = = = = = = = */
 @import "parts/about";
+
+/* = = = = = = = = = = Recordings Page Styles = = = = = = = = = = */
+@import "parts/recordings";
 
 /* = = = = = = = = = = Tags Styles = = = = = = = = = = */
 @import "parts/tags";

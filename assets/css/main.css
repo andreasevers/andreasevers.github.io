@@ -1140,6 +1140,14 @@ pre code {
   text-decoration: underline;
 }
 
+.post-card .external-url {
+  position: absolute;
+  right: 20px;
+  top: 18px;
+  width: 30px;
+  height: 30px;
+}
+
 /* = = = = = = = = = = Pagination Styles = = = = = = = = = = */
 .pagination {
   margin-bottom: 30px;
@@ -1528,54 +1536,6 @@ pre code {
           transform: scale(1.3);
 }
 
-/* = = = = = = = = = = Tags Styles = = = = = = = = = = */
-.blog-tags {
-  margin: 100px 0 100px;
-}
-
-.blog-tags h1 {
-  text-align: center;
-  font-family: 'Lato', sans-serif;
-  font-weight: 400;
-  font-size: 36px;
-  text-align: center;
-  margin: 0 0 30px;
-  color: #311e3e;
-}
-
-.blog-tags .tags {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.blog-tags .tags li a {
-  display: inline-block;
-  color: #311e3e;
-}
-
-.blog-tags .tags li a:hover {
-  opacity: .8;
-}
-
-.blog-tags .tag-list span a {
-  display: inline-block;
-  color: #87314e;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-size: 12px;
-  margin-bottom: 10px;
-}
-
-.blog-tags .tag-list span a:hover {
-  text-decoration: underline;
-  opacity: .8;
-}
-
-.blog-tags .tag-list small {
-  color: #311e3e;
-}
-
 /* = = = = = = = = = = Recordings Page Styles = = = = = = = = = = */
 .small-wrapper {
   width: 700px;
@@ -1654,6 +1614,54 @@ pre code {
   -webkit-transform: scale(1.3);
       -ms-transform: scale(1.3);
           transform: scale(1.3);
+}
+
+/* = = = = = = = = = = Tags Styles = = = = = = = = = = */
+.blog-tags {
+  margin: 100px 0 100px;
+}
+
+.blog-tags h1 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  text-align: center;
+  margin: 0 0 30px;
+  color: #311e3e;
+}
+
+.blog-tags .tags {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.blog-tags .tags li a {
+  display: inline-block;
+  color: #311e3e;
+}
+
+.blog-tags .tags li a:hover {
+  opacity: .8;
+}
+
+.blog-tags .tag-list span a {
+  display: inline-block;
+  color: #87314e;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.blog-tags .tag-list span a:hover {
+  text-decoration: underline;
+  opacity: .8;
+}
+
+.blog-tags .tag-list small {
+  color: #311e3e;
 }
 
 /* = = = = = = = = = = Animate Styles = = = = = = = = = = */
