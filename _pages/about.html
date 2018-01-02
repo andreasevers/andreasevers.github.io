@@ -66,6 +66,12 @@ permalink: /about/
       {% else %}
         <li class="pinterest"><a href="https://pinterest.com/" target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
       {% endif %}
+
+      {% if site.speakerdeck %}
+        <li class="speakerdeck"><a href="https://speakerdeck.com/{{site.pinterest}}" target="_blank"><i class="fa fa-slideshare"></i></a></li>
+      {% else %}
+        <li class="speakerdeck"><a href="https://speakerdeck.com/" target="_blank"><i class="fa fa-slideshare" aria-hidden="true"></i></a></li>
+      {% endif %}
       </ul>
     </section> <!-- End About Body-->
   </div> <!-- End About Container -->
