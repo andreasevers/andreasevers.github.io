@@ -10,3 +10,5 @@ author: Andreas Evers
 external_url: https://ordina-jworks.github.io/spring/2015/05/09/SpringIO15-General.html
 external_site: ordina-jworks
 ---
+
+Find this blogpost [here](https://ordina-jworks.github.io/spring/2015/05/09/SpringIO15-General.html).
