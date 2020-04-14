@@ -10,3 +10,5 @@ author: Andreas Evers
 external_url: https://ordina-jworks.github.io/cloud/2018/06/01/Automated-Canary-Analysis-using-Spinnaker.html
 external_site: ordina-jworks
 ---
+
+Find this blogpost [here](https://ordina-jworks.github.io/cloud/2018/06/01/Automated-Canary-Analysis-using-Spinnaker.html).

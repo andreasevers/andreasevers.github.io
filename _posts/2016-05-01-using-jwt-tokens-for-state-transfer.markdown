@@ -10,3 +10,5 @@ author: Andreas Evers
 external_url: https://ordina-jworks.github.io/microservices/2016/05/01/Using-JWT-Tokens-for-State-Transfer.html
 external_site: ordina-jworks
 ---
+
+Find this blogpost [here](https://ordina-jworks.github.io/microservices/2016/05/01/Using-JWT-Tokens-for-State-Transfer.html).
