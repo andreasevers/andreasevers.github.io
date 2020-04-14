@@ -10,3 +10,5 @@ author: Andreas Evers
 external_url: https://ordina-jworks.github.io/microservices/2016/09/12/Microservices-Dashboard-1.0.1.html
 external_site: ordina-jworks
 ---
+
+Find this blogpost [here](https://ordina-jworks.github.io/microservices/2016/09/12/Microservices-Dashboard-1.0.1.html).
