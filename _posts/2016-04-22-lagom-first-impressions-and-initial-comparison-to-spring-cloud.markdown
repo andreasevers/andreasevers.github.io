@@ -10,3 +10,5 @@ author: Andreas Evers
 external_url: https://ordina-jworks.github.io/microservices/2016/04/22/Lagom-First-Impressions-and-Initial-Comparison-to-Spring-Cloud.html
 external_site: ordina-jworks
 ---
+
+Find this blogpost [here](https://ordina-jworks.github.io/microservices/2016/04/22/Lagom-First-Impressions-and-Initial-Comparison-to-Spring-Cloud.html).
