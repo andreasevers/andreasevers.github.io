@@ -1,5 +1,5 @@
 title: My personal blog - Andreas Evers
-email: krosan@gmail.com
+email: andreas@evers.tech
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,7 +14,7 @@ author-pic: andreas-face.jpg
 about-author: My name is Andreas Evers. I work at KOR Financial as CTO. Previously I worked at VMware and Pivotal as a senior member of staff / senior solutions architect on the Application Transformation team. I'm passionate about distributed architecture, communication protocols, microservices and software design principles. I often speaks at conferences, writes blogs and share my opinion on Twitter.
 
 # Contact links
-email: krosan@gmail.com
+email: andreas@evers.tech
 phone: +32476363308
 website: andreasevers.github.io
 linkedin: eversandreas
