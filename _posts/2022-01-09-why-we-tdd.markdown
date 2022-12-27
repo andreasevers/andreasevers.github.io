@@ -1,0 +1,14 @@
+---
+layout: post
+title: Why We Practice Test Driven Development
+date: 2022-01-31 13:32:20 +0300
+description: One of the XP practices we encourage at KOR Financial is test driven development.
+img: tdd.webp
+img-credits: Andreas Evers
+tags: [Blog, Testing, Test Driven Development, TDD, XP, Productivity]
+author: Andreas Evers
+external_url: https://blog.korfinancial.com/why-test-driven-development-tdd
+external_site: kor-financial
+---
+
+Find this blogpost [here](https://blog.korfinancial.com/why-test-driven-development-tdd).
